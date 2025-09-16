@@ -54,7 +54,7 @@ a **dynamic platform** with seamless content creation, editing, and user managem
 |--------------|-------------------|-----------|
 | ![Manage Users](screenshots/manage-users.png) | ![Manage Categories](screenshots/manage-categories.png) | ![Edit Post](screenshots/edit-post.png) |
 
-
+---
 
 ## 🛠 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript  
@@ -71,6 +71,7 @@ a **dynamic platform** with seamless content creation, editing, and user managem
 - Application Server: XAMPP / VS Code  
 - Database: MySQL  
 
+---
 
 ## 🗄 Database Setup
 1. Open **phpMyAdmin**.  
@@ -88,13 +89,14 @@ This will create the required tables:
 
 1. **Clone the Repository**
 
+```bash
 git clone https://github.com/Intaza/BLOG.git
 cd BLOG
 
 
 2. **Import the Database**
 
-   * Open **phpMyAdmin** in your browser: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
+   * Open **phpMyAdmin** in your browser (usually at): [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
    * Create a new database (e.g., `blog`).
    * Go to the database → click **Import** → select `database/blog.sql` → click **Go**.
 
@@ -116,10 +118,11 @@ cd BLOG
 5. **Run the Project**
 
    * Start **Apache** and **MySQL** in XAMPP.
-   * Open your browser and visit:
-     [http://localhost/BLOG]
+   * Open your browser and visit (usually at):
+     [http://localhost/BLOG](http://localhost/BLOG)     
+---
 
-🚀 Future Scope
+## 🚀 Future Scope
 
 Real-time features: Live chat, notifications.
 
@@ -133,7 +136,11 @@ Community-focused features (forums, profiles, events).
 
 AI-powered personalized content recommendations.
 
+--- 
+
 ## Contact
 
 Check out my GitHub profile [Intaza](https://github.com/Intaza)  
 and visit this project repository [BLOG](https://github.com/Intaza/BLOG)
+
+---

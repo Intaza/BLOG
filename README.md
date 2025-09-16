@@ -6,7 +6,7 @@ while ensuring mobile-friendly and device-adaptive design.
 
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Screenshots](#screenshots)
@@ -15,10 +15,11 @@ while ensuring mobile-friendly and device-adaptive design.
 - [Database Setup](#database-setup)
 - [Project Setup](#project-setup)
 - [Future Scope](#future-scope)
+- [Contact](#contact)
 
 ---
 
-## 🔰 Introduction
+##  Introduction
 The aim of this project is to develop a **modern, user-friendly, and responsive blogging website**  
 that provides individuals with a platform to express their thoughts, share information, and engage with a community.  
 
@@ -27,7 +28,7 @@ a **dynamic platform** with seamless content creation, editing, and user managem
 
 ---
 
-## ✨ Features
+##  Features
 - **User Authentication**: Sign up, log in, and log out.
 - **Dashboard**: Centralized management of posts, categories, and users.
 - **Search Functionality**: Search blogs by title, author, or category.
@@ -37,7 +38,7 @@ a **dynamic platform** with seamless content creation, editing, and user managem
 - **Responsive UI**: Mobile-friendly and adaptable across desktops, tablets, and smartphones.
 
 ---
-## 📸 Screenshots
+##  Screenshots
 
 ### Public Pages
 | Home Page | Signup Page | Login Page |
@@ -56,7 +57,7 @@ a **dynamic platform** with seamless content creation, editing, and user managem
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: PHP  
 - **Database**: MySQL (via phpMyAdmin)  
@@ -64,7 +65,7 @@ a **dynamic platform** with seamless content creation, editing, and user managem
 
 ---
 
-## 🖥 System Requirements
+##  System Requirements
 
 **Software**  
 - Operating System: Windows 10  
@@ -73,7 +74,7 @@ a **dynamic platform** with seamless content creation, editing, and user managem
 
 ---
 
-## 🗄 Database Setup
+##  Database Setup
 1. Open **phpMyAdmin**.  
 2. Create a new database (e.g., `blog`).  
 3. Import the SQL file provided:  
@@ -85,44 +86,46 @@ This will create the required tables:
 
 ---
 
-### ⚙️ Project Setup 
+###  Project Setup 
 
 1. **Clone the Repository**
 
-```bash
-git clone https://github.com/Intaza/BLOG.git
-cd BLOG
+       git clone https://github.com/Intaza/BLOG.git
+       cd BLOG
 
 
 2. **Import the Database**
 
-   * Open **phpMyAdmin** in your browser (usually at): [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
-   * Create a new database (e.g., `blog`).
+* Open **phpMyAdmin** in your browser (usually at): 
+
+   [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
+* Create a new database (e.g., `blog`).
    * Go to the database → click **Import** → select `database/blog.sql` → click **Go**.
 
 3. **Configure the Project**
 
-   * Copy example config files and rename them:
+* Copy example config files and rename them:
+   
+      config/constants.example.php → config/constants.php
+      admin/config/constants.example.php → admin/config/constants.php
 
-     config/constants.example.php → config/constants.php
-     admin/config/constants.example.php → admin/config/constants.php
-
-   * Open both new `constants.php` files and update them with your database details.
+* Open both new `constants.php` files and update them with your database details.
 
 4. **Move to XAMPP htdocs (if not already there)**
 
-   * Place the whole `BLOG/` folder inside:
+* Place the whole `BLOG/` folder inside:
 
-     C:\xampp\htdocs\
+      C:\xampp\htdocs\
 
 5. **Run the Project**
 
-   * Start **Apache** and **MySQL** in XAMPP.
-   * Open your browser and visit (usually at):
-     [http://localhost/BLOG](http://localhost/BLOG)     
+* Start **Apache** and **MySQL** in XAMPP.
+* Open your browser and visit (usually at):
+   
+   [http://localhost/BLOG](http://localhost/BLOG)     
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 Real-time features: Live chat, notifications.
 
@@ -144,3 +147,4 @@ Check out my GitHub profile [Intaza](https://github.com/Intaza)
 and visit this project repository [BLOG](https://github.com/Intaza/BLOG)
 
 ---
+Thank You! 

@@ -84,7 +84,7 @@ This will create the required tables:
 
 ---
 
-### ⚙️ Project Setup (Improved)
+### ⚙️ Project Setup 
 
 1. **Clone the Repository**
 
@@ -119,3 +119,21 @@ cd BLOG
    * Open your browser and visit:
      [http://localhost/BLOG]
 
+🚀 Future Scope
+
+Real-time features: Live chat, notifications.
+
+Advanced content management (version control, scheduled publishing).
+
+Dedicated mobile app for seamless offline access.
+
+Monetization (ads, premium subscriptions, sponsored content).
+
+Community-focused features (forums, profiles, events).
+
+AI-powered personalized content recommendations.
+
+## Contact
+
+Check out my GitHub profile [Intaza](https://github.com/Intaza)  
+and visit this project repository [BLOG](https://github.com/Intaza/BLOG)

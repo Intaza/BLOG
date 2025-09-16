@@ -82,8 +82,6 @@ This will create the required tables:
 - `categories`  
 - `posts`  
 
-Got it 👍 let’s rewrite the **Setup section** to be super clear and beginner-friendly (no fluff, just exact steps to get it running).
-
 ---
 
 ### ⚙️ Project Setup (Improved)

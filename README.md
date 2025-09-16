@@ -90,7 +90,7 @@ Got it 👍 let’s rewrite the **Setup section** to be super clear and beginner
 
 1. **Clone the Repository**
 
-git clone https://github.com/<Intaza>/BLOG.git
+git clone https://github.com/Intaza/BLOG.git
 cd BLOG
 
 

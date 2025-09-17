@@ -4,6 +4,7 @@ A **responsive blogging platform** built using **PHP, MySQL, HTML, CSS, and Java
 This project enables users to create, edit, and manage blog posts with an intuitive dashboard,  
 while ensuring mobile-friendly and device-adaptive design.
 
+**Live Demo:** [View the Project](https://resblog.rf.gd/)
 ---
 
 ##  Table of Contents

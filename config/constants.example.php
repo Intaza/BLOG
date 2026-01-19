@@ -4,7 +4,7 @@
 // Do not include this file directly in your project.
 
 session_start();
-define('ROOT_URL','http://localhost/yourproject/');
+define('ROOT_URL','https://localhost/yourproject/');
 define('DB_HOST','localhost');
 define('DB_USER','your_db_user');
 define('DB_PASS','your_db_password');
